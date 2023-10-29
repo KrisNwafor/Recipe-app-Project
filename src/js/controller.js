@@ -127,10 +127,3 @@ const init = function () {
   addRecipeView._addHandlerUpload(controlAddRecipe);
 };
 init();
-
-// window.addEventListener('hashchange', showRecipe);
-// window.addEventListener('load', showRecipe);
-
-// fetch(
-//   'https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886?key=126d99b3-e5a2-448c-bd22-8b3e44dd72d7'
-// );
